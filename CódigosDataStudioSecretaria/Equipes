@@ -21,4 +21,6 @@ CASE
   WHEN Equipe - INE = '1496034' THEN 'PAULA PESSOA'
   WHEN Equipe - INE = '1555243' THEN 'TIAIA'
   WHEN Equipe - INE = '1604163' THEN 'PORTELINHA'
+  WHEN Equipe - INE = '2096854' THEN 'eMulti Parazinho'
+  
 END
