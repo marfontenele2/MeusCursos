@@ -23,5 +23,10 @@ CASE
   WHEN Equipe - INE = '1555243' THEN 'TIAIA'
   WHEN Equipe - INE = '1604163' THEN 'PORTELINHA'
   WHEN Equipe - INE = '2096854' THEN 'eMulti Parazinho'
+  WHEN Equipe - INE = '0002096854' THEN 'eMulti Parazinho'
+  WHEN Equipe - INE = '0001560662' THEN 'eMulti Sede'
+  WHEN Equipe - INE = '1560662' THEN 'eMulti Sede'
+  WHEN Equipe - INE = '0001630911' THEN 'eMulti Timonha'
+  WHEN Equipe - INE = '1630911' THEN 'eMulti Timonha'
   
 END
