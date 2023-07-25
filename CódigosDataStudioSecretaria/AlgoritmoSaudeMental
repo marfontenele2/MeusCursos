@@ -1,0 +1,79 @@
+CASE
+  WHEN Regionalizacao = 'ESTREITO' THEN 7
+  WHEN Regionalizacao = 'TIMONHA 1' THEN 7
+  WHEN Regionalizacao = 'TIMONHA 2' THEN 7
+  WHEN Regionalizacao = 'UBATUBA' THEN 7
+  WHEN Regionalizacao = 'ADRIANÓPOLES' THEN 7
+  WHEN Regionalizacao = 'CAPS' THEN 5
+  WHEN Regionalizacao = 'eMulti PARAZINHO' THEN 5
+  WHEN Regionalizacao = 'eMulti SEDE' THEN 5
+  WHEN Regionalizacao = 'eMulti TIMONHA' THEN 7
+  WHEN Regionalizacao = 'CDO' THEN 1
+  WHEN Regionalizacao = 'CRO 1' THEN 1
+  WHEN Regionalizacao = 'CRO 2' THEN 1
+  WHEN Regionalizacao = 'HPM' THEN 1
+  WHEN Regionalizacao = 'IBUAÇU' THEN 5
+  WHEN Regionalizacao = 'PARAZINHO 1' THEN 3
+  WHEN Regionalizacao = 'PARAZINHO 2' THEN 3
+  WHEN Regionalizacao = 'PAULA PESSOA' THEN 5
+  WHEN Regionalizacao = 'PORTELINHA' THEN 1
+  WHEN Regionalizacao = 'PRIVAT' THEN 3
+  WHEN Regionalizacao = 'SAMBAÍBA' THEN 5
+  WHEN Regionalizacao = 'SANTA TEREZINHA 1' THEN 3
+  WHEN Regionalizacao = 'SANTA TEREZINHA 2' THEN 3
+  WHEN Regionalizacao = 'SÃO PEDRO 1' THEN 1
+  WHEN Regionalizacao = 'SÃO PEDRO 2' THEN 1
+  WHEN Regionalizacao = 'TIAIA' THEN 5 
+END
+
+CASE
+  WHEN emprego = 'Efetivo.' THEN 7
+  WHEN emprego = 'Temporário.' THEN 1
+  WHEN emprego = 'Comissionado.' THEN 7
+  WHEN emprego = 'Médicos do Programa.' THEN 1
+END
+
+CASE
+  WHEN experiencia = 'Não tenho experiência relevante.' THEN 0
+  WHEN experiencia = 'Sim, tenho entre 2 e 5 anos de experiência relevante.' THEN 3
+  WHEN experiencia = 'Sim, tenho menos de 2 anos de experiência relevante.' THEN 1
+  WHEN experiencia = 'Sim, tenho mais de 5 anos de experiência relevante.' THEN 5
+
+END
+
+CASE
+  WHEN experienciaTreinamento = 'Não, nunca atuei com treinamento, palestrante ou instrutor(a).' THEN 0
+  WHEN experienciaTreinamento = 'Sim, tenho alguma experiência, mas não com treinamento/ensino profissional.' THEN 7
+  WHEN experienciaTreinamento = 'Sim, tenho experiência relevante em treinamento/ensino.' THEN 14
+END
+
+CASE
+  WHEN areaAptidao = 'Depressão e transtornos de ansiedade.' THEN 4
+  WHEN areaAptidao = 'Não tenho experiência.' THEN 0
+  WHEN areaAptidao = 'Saúde mental no ambiente de trabalho.' THEN 2
+  WHEN areaAptidao = 'Transtornos alimentares.' THEN 3
+  WHEN areaAptidao = 'Vícios e dependências.' THEN 3
+  WHEN areaAptidao = 'Transtornos psicóticos.' THEN 2
+END
+
+CASE
+  WHEN participacaoTreinamento = 'Não, ainda não participei de cursos de capacitação específica em treinamento em saúde mental.' THEN 0
+  WHEN participacaoTreinamento = 'Sim, participei de pelo menos um curso relevante.' THEN 4
+  WHEN participacaoTreinamento = 'Sim, participei de vários cursos relevantes.' THEN 7
+END
+
+CASE
+  WHEN abordagemPedagogica = 'Aprendizado online e recursos digitais.' THEN 2
+  WHEN abordagemPedagogica = 'Grupos de discussão e trabalho em equipe.' THEN 5
+  WHEN abordagemPedagogica = 'Nenhum método em particular, depende do contexto.' THEN 0
+  WHEN abordagemPedagogica = 'Treinamento prático e simulações de casos.' THEN 7
+  WHEN abordagemPedagogica = 'Apresentações teóricas e estudos de caso.' THEN 7
+END
+
+CASE
+  WHEN Motivacao = 'Aperfeiçoar minhas próprias habilidades e conhecimentos.' THEN 6
+  WHEN Motivacao = 'Aumentar a conscientização sobre questões de saúde mental.' THEN 9
+  WHEN Motivacao = 'Contribuir para o desenvolvimento profissional de outros colegas.' THEN 15
+  WHEN Motivacao = 'Necessidade de diversificar minha carreira profissional.' THEN 3
+  WHEN Motivacao = 'Nenhum Motivo.' THEN 0  
+END
