@@ -77,3 +77,10 @@ CASE
   WHEN Motivacao = 'Necessidade de diversificar minha carreira profissional.' THEN 3
   WHEN Motivacao = 'Nenhum Motivo.' THEN 0  
 END
+
+/*ESSE É O FILTRO PARA AS UBS DO SEDE*/
+CASE
+  WHEN Regionalizacao IN ('CDO', 'CRO 1', 'CRO 2', 'PORTELINHA', 'HPM','SÃO PEDRO 1','SÃO PEDRO 2') THEN Regionalizacao
+  ELSE 'Outros'
+END
+
