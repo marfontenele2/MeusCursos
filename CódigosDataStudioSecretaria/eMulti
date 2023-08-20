@@ -22,4 +22,5 @@ CASE
   WHEN Equipe - INE = '1555243' THEN 'eMulti Parazinho'
   WHEN Equipe - INE = '1604163' THEN 'eMulti Sede'
   WHEN Equipe - INE = '2096854' THEN 'eMulti Parazinho'
+  WHEN Equipe - INE = '23004584' THEN 'eMulti Parazinho'
 END
