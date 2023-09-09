@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "62d3a62180c85b06",
+    "type": "split",
+    "children": [
+      {
+        "id": "9704bd6c9f7752a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52694d0be0c09579",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfcc1ba36a72d723",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dbaef715bd2b0e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0620bbe34934e018",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d41a28cad306aa13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f187b6fe4e21fd35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4bb275c8b78332fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f23adf99407ef34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d832db8ebe749944",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19457b9c612fcf03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a94c6916816dcb3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "14f0c876c1deb7c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Abrir importador Markdown": false,
+      "zk-prefixer:Criar nova nota única": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "0620bbe34934e018",
+  "lastOpenFiles": [
+    "Notas Simples",
+    "Notas Permanentes",
+    "Notas literárias"
+  ]
+}
