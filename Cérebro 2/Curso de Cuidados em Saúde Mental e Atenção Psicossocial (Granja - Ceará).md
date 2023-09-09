@@ -1,0 +1,1 @@
+Curso administrado pelo Facilitador Márcio Carvalho e realizado em Granja no ano de 2023 para profissionais da APS

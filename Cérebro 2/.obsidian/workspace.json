@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9704bd6c9f7752a1",
+        "id": "705f0ff161aa6146",
         "type": "tabs",
         "children": [
           {
-            "id": "52694d0be0c09579",
+            "id": "3f028a057b91a013",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas Simples/09-09-2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Curso de Cuidados em Saúde Mental\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,13 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Notas Simples/09-09-2023.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas Simples/09-09-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas Simples/09-09-2023.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,13 +144,26 @@
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
+      "daily-notes:Abrir a nota de hoje": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0620bbe34934e018",
+  "active": "d832db8ebe749944",
   "lastOpenFiles": [
+    "Notas Simples/09-09-2023.md",
+    "Curso de Cuidados em Saúde Mental e Atenção Psicossocial (Granja - Ceará).md",
+    "Modelos/Transcrição de Vídeo.md",
+    "Modelos/Pomodoro.md",
+    "Modelos/Notas Literárias.md",
+    "Modelos/Códigos.md",
+    "Notas literárias/Youtube - Depressão.md",
+    "202309090831.md",
+    "obsidian.md",
+    "Notas Simples/inserir códigos no obsidian.md",
+    "202309090730.md",
+    "202309090715.md",
+    "Modelos",
     "Notas Simples",
     "Notas Permanentes",
     "Notas literárias"
