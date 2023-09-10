@@ -18,7 +18,6 @@
 18. **Notas de Rodapé**: 
 19. **Conexões com outras Notas/Fontes**: 
 
-#notasLiterárias 
 
 # Texto copiado
 

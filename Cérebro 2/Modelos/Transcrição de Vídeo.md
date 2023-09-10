@@ -12,5 +12,4 @@
 15. **Data de Acesso**: 
 16. **Idioma da Obra**: 
  
-#youtube 
 # Transcrição Aula de Depressão
