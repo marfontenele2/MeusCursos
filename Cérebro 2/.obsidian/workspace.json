@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Diárias/10-09-2023.md",
+                "file": "Notas Permanentes/DATAPREVINE 202309111440.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#curso_em_saúde_mental_granja2023",
+                "query": "tag:#mh-GAP/depressão",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Diárias/10-09-2023.md",
+                "file": "Notas Permanentes/DATAPREVINE 202309111440.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Diárias/10-09-2023.md",
+                "file": "Notas Permanentes/DATAPREVINE 202309111440.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Diárias/10-09-2023.md"
+                "file": "Notas Permanentes/DATAPREVINE 202309111440.md"
               }
             }
           },
@@ -138,11 +138,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,22 +159,33 @@
   },
   "active": "ead6c256fa1dafe7",
   "lastOpenFiles": [
-    "Notas literárias/202309100817.md",
-    "Notas Diárias/10-09-2023.md",
-    "Notas Diárias",
-    "Notas Simples/202309100820.md",
-    "obsidian.md",
-    "Notas Simples/inserir códigos no obsidian.md",
-    "Curso de Cuidados em Saúde Mental e Atenção Psicossocial (Granja - Ceará).md",
-    "Notas literárias/Youtube - Depressão.md",
-    "Notas Diárias/09-09-2023.md",
-    "Modelos/Códigos.md",
+    "Notas Simples/202309121405.md",
+    "Notas Simples/202309121158.md",
+    "Notas Simples/202309121350.md",
+    "Notas Simples/202309121358.md",
+    "Notas Permanentes/DATAPREVINE 202309111440.md",
+    "Notas Simples/202309121135.md",
+    "Notas Simples/202309121037.md",
+    "Notas Diárias/12-09-2023.md",
+    "Notas Simples/202309120851.md",
+    "Notas Permanentes/Previne Brasil.md",
+    "Notas Diárias/11-09-2023.md",
+    "Notas Permanentes/Programação.md",
+    "Notas Permanentes/ZETTELKASTEN-202309110757.md",
+    "Notas Permanentes/Organização.md",
+    "Notas Permanentes/PSIQ-20230910.md",
+    "Notas Permanentes/Zettelkasten.md",
+    "Notas Permanentes/Enfermagem.md",
+    "Notas Simples/202309102120.md",
     "Modelos/Transcrição de Vídeo.md",
     "Modelos/Pomodoro.md",
+    "Modelos/Notas Permanentes.md",
     "Modelos/Notas Literárias.md",
-    "202309090831.md",
-    "202309090730.md",
-    "202309090715.md",
+    "Notas literárias/202309100817.md",
+    "Notas Diárias/10-09-2023.md",
+    "Notas Diárias/09-09-2023.md",
+    "Modelos/Códigos.md",
+    "Notas Diárias",
     "Modelos",
     "Notas Simples",
     "Notas Permanentes",

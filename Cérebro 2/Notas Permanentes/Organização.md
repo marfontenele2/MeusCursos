@@ -1,0 +1,1 @@
+1.  Zettelkasten - [[ZETTELKASTEN-202309110757]] (zettelkasten/)
