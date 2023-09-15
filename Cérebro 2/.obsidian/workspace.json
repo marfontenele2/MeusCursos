@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "86bc8896fadfe8a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Permanentes/DATAPREVINE 202309111440.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Simples/202309141334.md",
+                "file": "Notas Permanentes/DATAPREVINE 202309111440.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Simples/202309141334.md",
+                "file": "Notas Permanentes/DATAPREVINE 202309111440.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Simples/202309141334.md"
+                "file": "Notas Permanentes/DATAPREVINE 202309111440.md"
               }
             }
           },
@@ -170,10 +183,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ead6c256fa1dafe7",
+  "active": "86bc8896fadfe8a4",
   "lastOpenFiles": [
-    "Notas Simples/202309140901.md",
     "Notas Simples/202309141334.md",
+    "Notas Simples/202309140901.md",
     "Notas Diárias/14-09-2023.md",
     "Pasted image 20230914150844.png",
     "Notas Simples/202309140817.md",
