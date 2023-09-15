@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Permanentes/DATAPREVINE 202309111440.md",
+                "file": "Notas Simples/202309141334.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#prompt/parafrasearTextosCriandoAnalogias",
+                "query": "tag:#psiquiatria/suicídio/apresentação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Permanentes/DATAPREVINE 202309111440.md",
+                "file": "Notas Simples/202309141334.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Permanentes/DATAPREVINE 202309111440.md",
+                "file": "Notas Simples/202309141334.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Permanentes/DATAPREVINE 202309111440.md"
+                "file": "Notas Simples/202309141334.md"
               }
             }
           },
@@ -185,9 +185,17 @@
   },
   "active": "86bc8896fadfe8a4",
   "lastOpenFiles": [
+    "Notas Diárias/15-09-2023.md",
+    "Modelos/Pomodoro.md",
+    "Notas Diárias/14-09-2023.md",
+    "Notas Diárias/13-09-2023.md",
+    "Notas Diárias/12-09-2023.md",
+    "Notas Diárias/11-09-2023.md",
+    "Notas Diárias/10-09-2023.md",
+    "Notas Diárias/09-09-2023.md",
+    "Notas Permanentes/DATAPREVINE 202309111440.md",
     "Notas Simples/202309141334.md",
     "Notas Simples/202309140901.md",
-    "Notas Diárias/14-09-2023.md",
     "Pasted image 20230914150844.png",
     "Notas Simples/202309140817.md",
     "Notas Simples/202309140859.md",
@@ -201,16 +209,9 @@
     "Notas Permanentes/Inteligência Artificial.md",
     "Notas Permanentes/Previne Brasil.md",
     "Notas Permanentes/Programação.md",
-    "Notas Diárias/13-09-2023.md",
-    "Notas Diárias/12-09-2023.md",
-    "Notas Permanentes/DATAPREVINE 202309111440.md",
     "Notas Simples/202309121405.md",
     "Notas Simples/202309121158.md",
     "Notas Simples/202309121350.md",
-    "Notas Simples/202309121358.md",
-    "Notas Simples/202309121135.md",
-    "Notas Simples/202309121037.md",
-    "Notas Simples/202309120851.md",
     "Notas Diárias",
     "Modelos",
     "Notas Simples",
