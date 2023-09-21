@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "40b0bd37796c9c0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas Simples/202309121856.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ff6f3e28e0ba89c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas Simples/202309191858.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "23529adfc43dc157",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Diárias/19-09-2023.md",
+                "file": "Notas Diárias/20-09-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ba70405902f36dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Simples/202309140901.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#psiquiatria/suicídio/apresentação",
+                "query": "tag:#prompt/parafrasearTextosCriandoAnalogias",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Diárias/19-09-2023.md",
+                "file": "Notas Simples/202309140901.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Diárias/19-09-2023.md",
+                "file": "Notas Simples/202309140901.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Diárias/19-09-2023.md"
+                "file": "Notas Simples/202309140901.md"
               }
             }
           },
@@ -193,12 +181,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "23529adfc43dc157",
+  "active": "1ba70405902f36dc",
   "lastOpenFiles": [
+    "Notas Diárias/20-09-2023.md",
+    "Notas Simples/202309140901.md",
+    "Notas Simples/202309131429.md",
     "Notas Simples/202309191858.md",
+    "Notas Simples/202309131421.md",
+    "Notas Permanentes/Programação.md",
     "Notas Simples/202309121856.md",
-    "Notas Simples/202309141334.md",
     "Notas Diárias/19-09-2023.md",
+    "Notas Simples/202309141334.md",
     "Notas Simples/202309140817.md",
     "Notas Simples/202309100817.md",
     "Notas Simples/202309140859.md",
@@ -207,7 +200,6 @@
     "Modelos/Códigos.md",
     "Notas Simples/202309120851.md",
     "Notas Simples/20230917091.md",
-    "Notas Simples/202309140901.md",
     "Notas Diárias/16-09-2023.md",
     "Notas Diárias/15-09-2023.md",
     "Notas Diárias/14-09-2023.md",
@@ -218,10 +210,6 @@
     "Notas Diárias/09-09-2023.md",
     "Modelos/Pomodoro.md",
     "Pasted image 20230914150844.png",
-    "Notas Permanentes/DATAPREVINE 202309111440.md",
-    "Notas Simples/202309131429.md",
-    "Notas Simples/202309131421.md",
-    "Notas Permanentes/PSIQ-20230910.md",
     "Notas Diárias",
     "Modelos",
     "Notas Simples",
