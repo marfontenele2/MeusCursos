@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Simples/202309140901.md",
+                "file": "Notas Diárias/21-09-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Simples/202309140901.md",
+                "file": "Notas Diárias/21-09-2023.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Simples/202309140901.md",
+                "file": "Notas Diárias/21-09-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Simples/202309140901.md"
+                "file": "Notas Diárias/21-09-2023.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "1ba70405902f36dc",
   "lastOpenFiles": [
-    "Notas Diárias/20-09-2023.md",
     "Notas Simples/202309140901.md",
+    "Notas Diárias/21-09-2023.md",
+    "Notas Diárias/20-09-2023.md",
     "Notas Simples/202309131429.md",
     "Notas Simples/202309191858.md",
     "Notas Simples/202309131421.md",
@@ -208,7 +209,6 @@
     "Notas Diárias/11-09-2023.md",
     "Notas Diárias/10-09-2023.md",
     "Notas Diárias/09-09-2023.md",
-    "Modelos/Pomodoro.md",
     "Pasted image 20230914150844.png",
     "Notas Diárias",
     "Modelos",
