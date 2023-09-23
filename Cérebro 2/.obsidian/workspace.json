@@ -8,30 +8,61 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ba70405902f36dc",
+            "id": "2f7bb4738c6bc933",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Diárias/21-09-2023.md",
+                "file": "Notas Diárias/23-09-2023.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "845c2bfe6c4e13c8",
+            "id": "f4b0dc576345fc9d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Simples/202309231107.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f0be7da0e5ac1505",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Simples/Criador_tópicos_a_partir_de_um_texto.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c600ce60d049fd50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Simples/202309140901.md",
+                "file": "Prompt/Refazer_Texto_Criando_Analogias.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#prompt/parafrasearTextosCriandoAnalogias",
+                "query": "tag:#psiquiatria/mh-GAP/depressão/avaliação/apresentação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Diárias/21-09-2023.md",
+                "file": "Notas Simples/202309231107.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Diárias/21-09-2023.md",
+                "file": "Notas Simples/202309231107.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Diárias/21-09-2023.md"
+                "file": "Notas Simples/202309231107.md"
               }
             }
           },
@@ -180,14 +211,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1ba70405902f36dc",
+  "active": "f4b0dc576345fc9d",
   "lastOpenFiles": [
-    "Notas Simples/202309140901.md",
+    "Notas Simples/Criador_tópicos_a_partir_de_um_texto.md",
+    "Notas Simples/202309231107.md",
+    "Notas Diárias/23-09-2023.md",
+    "Prompt/Refazer_Texto_Criando_Analogias.md",
+    "Notas Simples/202309191858.md",
+    "Prompt/Criador_de_prompt_1.5.md",
+    "Modelos/Apresentações.md",
+    "Prompt/Criador_De_Tópico_Motivador.md",
+    "Modelos/Prompt.md",
+    "Prompt/Criador_de_Slide.md",
+    "Prompt",
+    "Notas Diárias/22-09-2023.md",
     "Notas Diárias/21-09-2023.md",
     "Notas Diárias/20-09-2023.md",
-    "Notas Simples/202309131429.md",
-    "Notas Simples/202309191858.md",
-    "Notas Simples/202309131421.md",
     "Notas Permanentes/Programação.md",
     "Notas Simples/202309121856.md",
     "Notas Diárias/19-09-2023.md",
@@ -201,13 +240,6 @@
     "Notas Simples/202309120851.md",
     "Notas Simples/20230917091.md",
     "Notas Diárias/16-09-2023.md",
-    "Notas Diárias/15-09-2023.md",
-    "Notas Diárias/14-09-2023.md",
-    "Notas Diárias/13-09-2023.md",
-    "Notas Diárias/12-09-2023.md",
-    "Notas Diárias/11-09-2023.md",
-    "Notas Diárias/10-09-2023.md",
-    "Notas Diárias/09-09-2023.md",
     "Pasted image 20230914150844.png",
     "Notas Diárias",
     "Modelos",
