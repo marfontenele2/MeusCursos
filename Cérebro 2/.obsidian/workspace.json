@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f7bb4738c6bc933",
+            "id": "264ca9646d4b1adc",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Diárias/23-09-2023.md",
+                "file": "Notas Diárias/24-09-2023.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,17 +22,29 @@
             }
           },
           {
-            "id": "f4b0dc576345fc9d",
+            "id": "738354b412c64c2d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Simples/202309231107.md",
-                "mode": "preview",
+                "file": "Notas Simples/202309240948.md",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "5808604638b65273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Permanentes/Prompt/O melhor professor do mundo (para aprender qualquer coisa).md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -42,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Simples/Criador_tópicos_a_partir_de_um_texto.md",
+                "file": "Notas Permanentes/Prompt/Criador_tópicos_a_partir_de_um_texto.md",
                 "mode": "source",
                 "source": false
               },
@@ -52,21 +64,27 @@
           {
             "id": "c600ce60d049fd50",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt/Refazer_Texto_Criando_Analogias.md",
+                "file": "Notas Permanentes/Prompt/Refazer_Texto_Criando_Analogias.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "836e6314d3829a9f",
+            "id": "137d4da93e407e9c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas Permanentes/PSIQUIATRIA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -98,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#psiquiatria/mh-GAP/depressão/avaliação/apresentação",
+                "query": "tag:#psiquiatria/mh-GAP/depressão",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,8 +133,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Diárias/23-09-2023.md",
+                "file": "Notas Diárias/24-09-2023.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Diárias/23-09-2023.md",
+                "file": "Notas Diárias/24-09-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Diárias/23-09-2023.md"
+                "file": "Notas Diárias/24-09-2023.md"
               }
             }
           },
@@ -218,9 +235,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2f7bb4738c6bc933",
+  "active": "264ca9646d4b1adc",
   "lastOpenFiles": [
+    "Notas Permanentes/Prompt/Refazer_Texto_Criando_Analogias.md",
+    "Notas Permanentes/Prompt/O melhor professor do mundo (para aprender qualquer coisa).md",
+    "Notas Simples/202309240948.md",
+    "Notas Diárias/24-09-2023.md",
+    "Notas Permanentes/Prompt/Criador_tópicos_a_partir_de_um_texto.md",
+    "Notas Permanentes/PSIQUIATRIA.md",
+    "Notas Permanentes/Prompt/Criador_De_Tópico_Motivador.md",
     "Notas Simples/202309231107.md",
+    "Notas Diárias/23-09-2023.md",
     "Pasted image 20230924002221.png",
     "Pasted image 20230924002057.png",
     "Pasted image 20230924001703.png",
@@ -228,16 +253,12 @@
     "Pasted image 20230924001336.png",
     "Pasted image 20230924000819.png",
     "Pasted image 20230924000515.png",
-    "Notas Diárias/23-09-2023.md",
-    "Notas Simples/Criador_tópicos_a_partir_de_um_texto.md",
-    "Prompt/Refazer_Texto_Criando_Analogias.md",
     "Notas Simples/202309191858.md",
-    "Prompt/Criador_de_prompt_1.5.md",
+    "Notas Permanentes/Prompt/Criador_de_prompt_1.5.md",
     "Modelos/Apresentações.md",
-    "Prompt/Criador_De_Tópico_Motivador.md",
     "Modelos/Prompt.md",
-    "Prompt/Criador_de_Slide.md",
-    "Prompt",
+    "Notas Permanentes/Prompt/Criador_de_Slide.md",
+    "Notas Permanentes/Prompt",
     "Notas Diárias/22-09-2023.md",
     "Notas Diárias/21-09-2023.md",
     "Notas Diárias/20-09-2023.md",
@@ -250,9 +271,6 @@
     "Notas Simples/202309140859.md",
     "Notas Permanentes/Apresentações.md",
     "Notas Diárias/17-09-2023.md",
-    "Modelos/Códigos.md",
-    "Notas Simples/202309120851.md",
-    "Notas Simples/20230917091.md",
     "Pasted image 20230914150844.png",
     "Notas Diárias",
     "Modelos",

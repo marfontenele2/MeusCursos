@@ -3,4 +3,4 @@
 
 ## Sumário
 
-1. Psiquiatria -  [[PSIQ-20230910]]
+1. Psiquiatria -  [[PSIQUIATRIA]]
