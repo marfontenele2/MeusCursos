@@ -4,87 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "39072d7943eb96a8",
+        "id": "3026a686bac66917",
         "type": "tabs",
         "children": [
           {
-            "id": "264ca9646d4b1adc",
+            "id": "767c63639d484175",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Diárias/24-09-2023.md",
-                "mode": "source",
-                "source": false
+                "file": "Notas Diárias/27-09-2023.md",
+                "mode": "source"
               },
               "pinned": true
             }
           },
           {
-            "id": "738354b412c64c2d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas Simples/202309240948.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "5808604638b65273",
+            "id": "dde3130205e32f4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas Permanentes/Prompt/O melhor professor do mundo (para aprender qualquer coisa).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0be7da0e5ac1505",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas Permanentes/Prompt/Criador_tópicos_a_partir_de_um_texto.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c600ce60d049fd50",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas Permanentes/Prompt/Refazer_Texto_Criando_Analogias.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "137d4da93e407e9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas Permanentes/PSIQUIATRIA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -116,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#psiquiatria/mh-GAP/depressão",
+                "query": "tag:#psiquiatria/mh-GAP/curso/segundo_encontro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 208.5
   },
   "right": {
     "id": "4bb275c8b78332fc",
@@ -153,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Diárias/24-09-2023.md",
+                "file": "Notas Diárias/27-09-2023.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Diárias/24-09-2023.md",
+                "file": "Notas Diárias/27-09-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Diárias/24-09-2023.md"
+                "file": "Notas Diárias/27-09-2023.md"
               }
             }
           },
@@ -220,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,47 +176,51 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "264ca9646d4b1adc",
+  "active": "767c63639d484175",
   "lastOpenFiles": [
-    "Notas Permanentes/Prompt/Refazer_Texto_Criando_Analogias.md",
-    "Notas Permanentes/Prompt/O melhor professor do mundo (para aprender qualquer coisa).md",
-    "Notas Simples/202309240948.md",
-    "Notas Diárias/24-09-2023.md",
-    "Notas Permanentes/Prompt/Criador_tópicos_a_partir_de_um_texto.md",
-    "Notas Permanentes/PSIQUIATRIA.md",
-    "Notas Permanentes/Prompt/Criador_De_Tópico_Motivador.md",
-    "Notas Simples/202309231107.md",
-    "Notas Diárias/23-09-2023.md",
-    "Pasted image 20230924002221.png",
-    "Pasted image 20230924002057.png",
-    "Pasted image 20230924001703.png",
-    "Pasted image 20230924001524.png",
-    "Pasted image 20230924001336.png",
-    "Pasted image 20230924000819.png",
-    "Pasted image 20230924000515.png",
-    "Notas Simples/202309191858.md",
+    "Rede de Saúde de Granja.md",
+    "Rede/21 Equipes Saúde da Família.md",
+    "Rede/UPA.md",
+    "Rede/Hospital.md",
+    "Rede/CAPS I.md",
+    "Rede/CAPS 2.md",
+    "Notas Diárias/27-09-2023.md",
+    "Arquivos/Cronograma do Segundo encontro.md",
+    "Notas Permanentes/Prompt/Prompt_gerador_exemplos_hipotéticos.md",
+    "Rede",
+    "Notas Permanentes/Prompt/Prompt_memorização_Lista.md",
     "Notas Permanentes/Prompt/Criador_de_prompt_1.5.md",
+    "Arquivos/~$4- Depressão_Avaliação.pptx",
+    "Notas Permanentes/Prompt/O melhor professor do mundo (para aprender qualquer coisa).md",
+    "Arquivos/TIMER_CRONÔMETRO 28 MINUTOS.mp4",
+    "Notas Permanentes/Prompt/Refazer_Texto_Criando_Analogias.md",
+    "Arquivos/~$5- Uso de habilidade de comunicação.pptx",
+    "Notas Permanentes/Prompt/Criador_tópicos_a_partir_de_um_texto.md",
+    "Notas Permanentes/Prompt/Criador_De_Tópico_Motivador.md",
+    "Notas Diárias/26-09-2023.md",
+    "Notas Diárias/25-09-2023.md",
+    "Arquivos/Video Caso   Seguimento Depressão.mp4",
+    "Arquivos/Video Caso   Manejo Depressão.mp4",
+    "Arquivos/6- Depressão_Manejo.pptx",
+    "Arquivos/Video Caso   Avaliação Depressão.mp4",
+    "Arquivos/Exemplo do Protocolo por Profissional no especializado.mp4",
+    "Notas Simples/202309231107.md",
+    "Notas Simples/202309191858.md",
+    "Arquivos/5- Uso de habilidade de comunicação.pptx",
+    "Notas Simples/202309240948.md",
+    "Arquivos/Pasted image 20230924001524.png",
+    "Modelos/Códigos.md",
+    "Notas Permanentes/PSIQUIATRIA.md",
+    "Notas Diárias/24-09-2023.md",
+    "Notas Diárias/23-09-2023.md",
+    "Arquivos/Pasted image 20230924002221.png",
+    "Arquivos/Pasted image 20230924002057.png",
+    "Arquivos/Pasted image 20230924001703.png",
+    "Arquivos/Pasted image 20230924001336.png",
+    "Arquivos/Pasted image 20230924000819.png",
+    "Arquivos/Pasted image 20230924000515.png",
     "Modelos/Apresentações.md",
     "Modelos/Prompt.md",
-    "Notas Permanentes/Prompt/Criador_de_Slide.md",
-    "Notas Permanentes/Prompt",
-    "Notas Diárias/22-09-2023.md",
-    "Notas Diárias/21-09-2023.md",
-    "Notas Diárias/20-09-2023.md",
-    "Notas Permanentes/Programação.md",
-    "Notas Simples/202309121856.md",
-    "Notas Diárias/19-09-2023.md",
-    "Notas Simples/202309141334.md",
-    "Notas Simples/202309140817.md",
-    "Notas Simples/202309100817.md",
-    "Notas Simples/202309140859.md",
-    "Notas Permanentes/Apresentações.md",
-    "Notas Diárias/17-09-2023.md",
-    "Pasted image 20230914150844.png",
-    "Notas Diárias",
-    "Modelos",
-    "Notas Simples",
-    "Notas Permanentes",
-    "Notas literárias"
+    "Pasted image 20230914150844.png"
   ]
 }

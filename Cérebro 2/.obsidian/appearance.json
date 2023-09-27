@@ -1,4 +1,9 @@
 {
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "moonstone",
+  "cssTheme": "Golden Topaz",
+  "interfaceFontFamily": "Century Gothic",
+  "baseFontSize": 18,
+  "nativeMenus": true,
+  "translucency": true
 }
