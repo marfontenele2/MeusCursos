@@ -16,17 +16,15 @@ Eu prefiro mnemônicos visuais. Você poderia me ajudar a criar mnemônicos, té
 [[Inteligência Artificial]]
 
 ```
-Eu estou me preparando para um exame de {insira o tópico do exame aqui} e tenho uma lista de itens que preciso memorizar. Os itens são os seguintes:
+Eu estou me preparando para um exame de {Manejo de depressão} e tenho uma lista de itens que preciso memorizar. Os itens são os seguintes:
 
-1. {}
-2. {}
-3. {}
-4. {}
-5. {}
-6. {}
-7. {}
+1. {Psicoeducação}
+2. {Redução do estresse e fortalecimento do apoio social}
+3. {Promoção do funcionamento em atividades diárias}
+4. {Tratamento psicológico breve para depressão}
+5. {Tratamento farmacológico}
 
-Como eu prefiro mnemônicos visuais, você poderia me ajudar a criar mnemônicos, técnicas de memorização ou acrônimos para esses itens? Além disso, gostaria que você criasse uma conexão entre cada item da lista, como um elo de ligação do item 1 com o item 2, depois do item 2 com o 3 e assim por diante. Tenho uma preferência por {por exemplo, histórias, imagens, acrônimos}.
+Como eu prefiro mnemônicos visuais, você poderia me ajudar a criar mnemônicos, técnicas de memorização ou acrônimos para esses itens? Além disso, gostaria que você criasse uma conexão entre cada item da lista, como um elo de ligação do item 1 com o item 2, depois do item 2 com o 3 e assim por diante. Tenho uma preferência por {histórias}.
 
 ```
 
