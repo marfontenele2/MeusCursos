@@ -8,16 +8,16 @@ Reflexão sobre o Vídeo ‘Depressão O Cachorro Preto Depression The Black Dog
 ![[Depressão  O Cachorro Preto   Depression  The Black Dog.mp4]]
 ## 8h45m - 9h30m
 Apresentação 1 - Depressão: Avaliação
-![[4- Depressão_Avaliação.pptx]]
+![[4- Depressão Avaliação.pptx]]
+
 ## 9h30m - 9h45m
 Exemplo do Uso do Protocolo
 ![[Exemplo do Protocolo por Profissional no especializado.mp4]]
 ## 9h45mi - 10h30m
 Apresentação 2- Habilidade de Comunicação
-![[5- Uso de habilidade de comunicação.pptx]]
+![[5- Uso de habilidade de comunicação 1.pptx]]
 ## 10h30m - 11h15m
 Treinamento de Habilidades (ROLEPLAY) - Avaliar uma pessoa
-
    1. Três minutos para leitura
    2. Dez minutos de entrevista
    3. Dez minutos para feedback e discussão em pequenos grupos
@@ -34,8 +34,8 @@ Percepção das manifestações da Depressão em um Podcast de História Pessoal
 ## 12h - 13h
 Intervalo para Almoço
 ## 13 - 13h45m
-Apresentação 3 - Manejo da Depressão
-![[6- Depressão_Manejo.pptx]]
+Apresentação 3 - Depressão: Manejo e Seguimento
+![[6- Depressão Manejo e Seguimento.pptx]]
 ## 13h45m - 14h30m
 Treinamento de Habilidades (ROLEPLAY) - Intervenções Psicossociais
    1. Três minutos para leitura
